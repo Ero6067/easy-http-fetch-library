@@ -5,8 +5,8 @@ Uses HTML5, Javascript, Fetch API
 
 # Features
 
-* 
-* 
+* use fetch GET,POST,PUT, DELETE
+* optimized using Es6; promises and fat arrow functions
 
 # Run
 
