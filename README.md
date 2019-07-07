@@ -1,7 +1,7 @@
 # Custom HTTP Library using Fetch
 Written by Kris Lafrance
 
-Uses HTML5, Javascript
+Uses HTML5, Javascript, Fetch API
 
 # Features
 
