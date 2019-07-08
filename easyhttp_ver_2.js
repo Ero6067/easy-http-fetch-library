@@ -1,6 +1,7 @@
 /**
- *  EasyHTTP Library
- *  Library for making HTTP requests
+ * EasyHTTP Library
+ * Library for making HTTP requests
+ * Fetch with promise
  * 
  * @version 2.0.0
  * @author Kris Lafrance
