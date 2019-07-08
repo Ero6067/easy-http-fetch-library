@@ -7,6 +7,7 @@ Uses HTML5, Javascript, Fetch API
 
 * use fetch GET,POST,PUT, DELETE
 * optimized using Es6; promises and fat arrow functions
+* shows the difference between promises and async await
 
 # Run
 
