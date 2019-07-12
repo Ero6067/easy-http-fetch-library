@@ -11,5 +11,5 @@ Uses HTML5, Javascript, Fetch API
 
 # Run
 
-* `clone https://github.com/Ero6067/easy-http-fetch-library.git`
+* `git clone https://github.com/Ero6067/easy-http-fetch-library.git`
 * open index.html
